@@ -124,6 +124,28 @@ async function main() {
     const command = process.argv[2];
     const args = process.argv.slice(3);
 
+    if (!command) {
+        const csvPath = path.join(__dirname, '..', 'project_source', 'file.csv');
+        const csvContent = await fs.readFile(csvPath, 'utf8');
+        const parser = parse(csvContent, {
+            columns: true,
+            skip_empty_lines: true
+        });
+
+        const allData = [];
+        for await (const record of parser) {
+            const songData = await fetchSongData(record.songId);
+            if (songData) {
+                allData.push({
+                    ...record,
+                    ...songData
+                });
+            }
+        }
+        console.log(JSON.stringify(allData, null, 2));
+        return;
+    }
+
     switch (command) {
         case 'top-songs':
             if (args.length !== 3) {
