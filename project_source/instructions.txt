@@ -1,0 +1,50 @@
+🎵 Music Streaming – Event Enrichment & Analytics Challenge
+
+Welcome! Your mission is to turn raw playback logs into insightful, query-able data that any music service would love to have on tap.
+
+📂 What you get
+streamingEvents.csv - Each row is a play event: userId, songId, timestamp (ISO-8601), durationMs
+API GET /songs/:songId → { songId, title, artist, releaseDate }
+You should not modify anything under /src or /static subdirectories.
+
+🛠️ Part 1 – Ingestion
+Write a script that:
+
+Reads streamingEvents.csv
+Enriches every row with song metadata from the API
+Emits an output.json containing all enriched events (structure is up to you).
+Starter code for the script is in /scripts/ingest.ts
+
+🔎 Part 2 – Analytics CLI
+Your CLI should accept the commands below and print plain-text results:
+
+Command	Arguments	Expected output
+top-songs start end N	start, end – ISO-8601 timestamps
+N – integer	Top N songIds by play-count in that window
+timeline userId M	userId – identifier
+M – number of months (integer)	For each of the last M months: top song and top artist for that user
+payout artist M	artist – name
+M – number of months	Royalty owed: sum(listenMinutes) × $0.001, counting only streams > 10 seconds
+
+How to use this environment
+On the right-hand side of your screen, there should be a "Program output" tab. Once you open that, a "Shell" tab should appear below the browser.
+
+Use this shell as you would terminal locally, for example:
+
+npm run ingest
+will run the script and print the output.
+
+
+--- 
+
+
+Sample Commands:
+
+1. Get top 5 most played songs in March 2025:
+node scripts/ingest.js top-songs "2025-03-01" "2025-03-31" 5
+
+2. Get user's top songs and artists for last 3 months:
+node scripts/ingest.js timeline "724e10de-23b3-4b79-a3ba-70c8787fa3fe" 3
+
+3. Calculate artist payout for last 6 months:
+node scripts/ingest.js payout "John Coltrane" 6

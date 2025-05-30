@@ -1,0 +1,17 @@
+{
+  "name": "music-streaming-analytics",
+  "version": "1.0.0",
+  "description": "Music streaming analytics project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "ingest": "node scripts/ingest.js",
+    "analytics": "node scripts/analytics.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "csv-parse": "^5.5.3",
+    "commander": "^11.1.0",
+    "moment": "^2.30.1"
+  }
+} 

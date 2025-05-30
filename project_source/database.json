@@ -1,0 +1,305 @@
+{
+    "songs": [
+      {
+        "title": "Take Five",
+        "artist": "Dave Brubeck Quartet",
+        "releaseDate": "1959-09-29",
+        "songId": "c059de31-9f88-4fee-8251-acf690752e5f"
+      },
+      {
+        "title": "So What",
+        "artist": "Miles Davis",
+        "releaseDate": "1959-08-17",
+        "songId": "882cfe14-8f95-44c8-8ae1-b99ba80d9894"
+      },
+      {
+        "title": "My Favorite Things",
+        "artist": "John Coltrane",
+        "releaseDate": "1961-03-07",
+        "songId": "52e960a6-1306-4701-a800-a5fa1a7a6762"
+      },
+      {
+        "title": "Take the 'A' Train",
+        "artist": "Duke Ellington",
+        "releaseDate": "1941-02-15",
+        "songId": "4eea8b40-9df3-4d0e-b646-9dccb3fdc536"
+      },
+      {
+        "title": "Round Midnight",
+        "artist": "Thelonious Monk",
+        "releaseDate": "1944-04-21",
+        "songId": "2b0b1fbb-0507-4897-aef6-69004fba434d"
+      },
+      {
+        "title": "Summertime",
+        "artist": "Ella Fitzgerald & Louis Armstrong",
+        "releaseDate": "1957-08-18",
+        "songId": "576eb88c-33f9-4692-93ec-712014b66d16"
+      },
+      {
+        "title": "Autumn Leaves",
+        "artist": "Cannonball Adderley",
+        "releaseDate": "1958-01-09",
+        "songId": "e063e5b0-4879-43cd-ae79-5357188a4fa8"
+      },
+      {
+        "title": "Blue in Green",
+        "artist": "Miles Davis",
+        "releaseDate": "1959-08-17",
+        "songId": "72be07d1-c1e6-4653-aba4-37591b401d02"
+      },
+      {
+        "title": "A Love Supreme, Pt. 1: Acknowledgement",
+        "artist": "John Coltrane",
+        "releaseDate": "1965-02-10",
+        "songId": "8db8f77c-d19b-4872-8e5d-1aee9f653721"
+      },
+      {
+        "title": "Strange Fruit",
+        "artist": "Billie Holiday",
+        "releaseDate": "1939-04-20",
+        "songId": "5ede3121-872a-497c-9c09-ccac45be6bc2"
+      },
+      {
+        "title": "Moanin'",
+        "artist": "Art Blakey & The Jazz Messengers",
+        "releaseDate": "1958-10-30",
+        "songId": "c3aa4769-e504-49f4-8f80-1ba135ae36c4"
+      },
+      {
+        "title": "Sing, Sing, Sing",
+        "artist": "Benny Goodman",
+        "releaseDate": "1937-07-06",
+        "songId": "c24b7bb9-07ed-4e80-9484-df0667c83574"
+      },
+      {
+        "title": "In a Sentimental Mood",
+        "artist": "Duke Ellington & John Coltrane",
+        "releaseDate": "1963-09-26",
+        "songId": "0837099b-1bc1-4be1-884f-5725057ad000"
+      },
+      {
+        "title": "Birdland",
+        "artist": "Weather Report",
+        "releaseDate": "1977-04-01",
+        "songId": "af111602-4f58-40b4-b760-3bb3dddfec6f"
+      },
+      {
+        "title": "Stolen Moments",
+        "artist": "Oliver Nelson",
+        "releaseDate": "1961-03-01",
+        "songId": "3733942a-ef70-444f-abd1-cb7f3b992baa"
+      },
+      {
+        "title": "Goodbye Pork Pie Hat",
+        "artist": "Charles Mingus",
+        "releaseDate": "1959-05-12",
+        "songId": "78fd4387-25c0-4d8a-84b2-4486fdad107b"
+      },
+      {
+        "title": "Watermelon Man",
+        "artist": "Herbie Hancock",
+        "releaseDate": "1962-10-24",
+        "songId": "a82104a2-0a85-405a-8474-1a6489d6ae9e"
+      },
+      {
+        "title": "Naima",
+        "artist": "John Coltrane",
+        "releaseDate": "1960-01-14",
+        "songId": "910b3d28-e4dc-4d79-a35a-86da803136b2"
+      },
+      {
+        "title": "Cantaloupe Island",
+        "artist": "Herbie Hancock",
+        "releaseDate": "1964-06-17",
+        "songId": "d9b53215-0f91-4daf-94d4-5229f5109ece"
+      },
+      {
+        "title": "Maiden Voyage",
+        "artist": "Herbie Hancock",
+        "releaseDate": "1965-05-17",
+        "songId": "db68df62-26d6-4204-bdc6-41dbfba7a315"
+      },
+      {
+        "title": "Bitches Brew",
+        "artist": "Miles Davis",
+        "releaseDate": "1970-04-19",
+        "songId": "87a3ffa3-420d-4c31-9160-7b0abfb2912a"
+      },
+      {
+        "title": "The Girl from Ipanema",
+        "artist": "Stan Getz & Astrud Gilberto",
+        "releaseDate": "1964-03-19",
+        "songId": "8326d65b-d8a4-4cb5-9413-8f962faec640"
+      },
+      {
+        "title": "Mercy, Mercy, Mercy",
+        "artist": "Cannonball Adderley Quintet",
+        "releaseDate": "1966-10-31",
+        "songId": "cb11c898-2ec4-4a2c-9ea6-35c0e2dadee6"
+      },
+      {
+        "title": "Waltz for Debby",
+        "artist": "Bill Evans Trio",
+        "releaseDate": "1962-01-19",
+        "songId": "6d6addb9-9eeb-4d15-886d-1d2e9a9665b3"
+      },
+      {
+        "title": "Chameleon",
+        "artist": "Herbie Hancock",
+        "releaseDate": "1973-10-26",
+        "songId": "0ca71646-ef58-4ced-a924-8e02981a0d67"
+      },
+      {
+        "title": "Freddie Freeloader",
+        "artist": "Miles Davis",
+        "releaseDate": "1959-08-17",
+        "songId": "5c55e352-5688-4c35-a06f-f29e6519a629"
+      },
+      {
+        "title": "Compared to What",
+        "artist": "Les McCann & Eddie Harris",
+        "releaseDate": "1969-05-21",
+        "songId": "7c1e4e78-1895-46cb-b899-dc57b261845f"
+      },
+      {
+        "title": "Afro Blue",
+        "artist": "John Coltrane",
+        "releaseDate": "1963-10-22",
+        "songId": "fb702dfd-b9a7-45a6-8cc2-31fc3f56f4f1"
+      },
+      {
+        "title": "Boplicity",
+        "artist": "Miles Davis Nonet",
+        "releaseDate": "1957-03-02",
+        "songId": "5b03d7cd-5fbe-4162-aaae-23074140fe58"
+      },
+      {
+        "title": "Spain",
+        "artist": "Chick Corea",
+        "releaseDate": "1972-02-09",
+        "songId": "2de627a2-c8c6-43ee-8688-e2bffcf6ec8b"
+      },
+      {
+        "title": "Donna Lee",
+        "artist": "Charlie Parker",
+        "releaseDate": "1947-05-08",
+        "songId": "1b7da275-2155-4716-a4d4-0e81765e9cdd"
+      },
+      {
+        "title": "Better Git It in Your Soul",
+        "artist": "Charles Mingus",
+        "releaseDate": "1959-10-12",
+        "songId": "5c7eeb42-2004-40e6-8a41-a58f4a97db9b"
+      },
+      {
+        "title": "Straight, No Chaser",
+        "artist": "Thelonious Monk",
+        "releaseDate": "1951-07-23",
+        "songId": "3115f7ee-fc73-4be9-91a1-12f239bff5bb"
+      },
+      {
+        "title": "All Blues",
+        "artist": "Miles Davis",
+        "releaseDate": "1959-08-17",
+        "songId": "7da8c1f5-3dbb-4672-ac8c-f8d03606bc3c"
+      },
+      {
+        "title": "Epistrophy",
+        "artist": "Thelonious Monk",
+        "releaseDate": "1948-06-07",
+        "songId": "e342e3de-1d9c-4641-a71c-3a68b523f09c"
+      },
+      {
+        "title": "Footprints",
+        "artist": "Wayne Shorter",
+        "releaseDate": "1966-04-29",
+        "songId": "3ae24a15-0863-4da8-a600-7a3474e40195"
+      },
+      {
+        "title": "Ornithology",
+        "artist": "Charlie Parker",
+        "releaseDate": "1946-03-28",
+        "songId": "eaeb0f5a-e070-4778-9d33-25a1a1421a83"
+      },
+      {
+        "title": "Confirmation",
+        "artist": "Charlie Parker",
+        "releaseDate": "1946-11-26",
+        "songId": "ec382153-1c72-40f7-a6d8-b7bebcc9920e"
+      },
+      {
+        "title": "Giant Steps",
+        "artist": "John Coltrane",
+        "releaseDate": "1960-02-01",
+        "songId": "1ca59767-03aa-48ae-8d6c-6d356e411ea9"
+      },
+      {
+        "title": "Caravan",
+        "artist": "Duke Ellington",
+        "releaseDate": "1937-12-19",
+        "songId": "2b51a930-f565-4e85-aaeb-2a2bae4a7bda"
+      },
+      {
+        "title": "Lullaby of Birdland",
+        "artist": "Sarah Vaughan",
+        "releaseDate": "1954-09-08",
+        "songId": "605f3310-78c7-4d77-b2f7-1344511e42c8"
+      },
+      {
+        "title": "Night in Tunisia",
+        "artist": "Dizzy Gillespie",
+        "releaseDate": "1942-11-24",
+        "songId": "79ae8c18-4e36-4091-b408-1a57bbffdd4f"
+      },
+      {
+        "title": "Body and Soul",
+        "artist": "Coleman Hawkins",
+        "releaseDate": "1939-10-11",
+        "songId": "b8c647ee-1814-4dc8-80af-55f8d02c6c93"
+      },
+      {
+        "title": "Mood Indigo",
+        "artist": "Duke Ellington",
+        "releaseDate": "1930-10-17",
+        "songId": "eb83e7d2-7d60-4440-874f-67252305a730"
+      },
+      {
+        "title": "Fly Me to the Moon",
+        "artist": "Tony Bennett",
+        "releaseDate": "1965-01-05",
+        "songId": "2f2b1a33-e8a0-461e-a746-b7ffa4e843c7"
+      },
+      {
+        "title": "My Funny Valentine",
+        "artist": "Chet Baker",
+        "releaseDate": "1954-07-24",
+        "songId": "fd8e9348-a248-4c68-a97f-b73b195628b9"
+      },
+      {
+        "title": "Misty",
+        "artist": "Erroll Garner",
+        "releaseDate": "1954-09-27",
+        "songId": "ad54741d-fda8-462a-b8ed-dfb06a00938d"
+      },
+      {
+        "title": "Unforgettable",
+        "artist": "Nat King Cole",
+        "releaseDate": "1951-08-15",
+        "songId": "d71f04a7-76ab-4a56-baf5-fb1523835e29"
+      },
+      {
+        "title": "What a Wonderful World",
+        "artist": "Louis Armstrong",
+        "releaseDate": "1967-09-01",
+        "songId": "c198b688-84fd-42fd-afc1-777364a68eeb"
+      },
+      {
+        "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+        "artist": "Duke Ellington",
+        "releaseDate": "1932-02-02",
+        "songId": "c3e155cb-f9db-497b-ba56-07e03cc07e06"
+      }
+    ]
+  }
+  
