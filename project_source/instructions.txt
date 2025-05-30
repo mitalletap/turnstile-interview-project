@@ -41,10 +41,10 @@ will run the script and print the output.
 Sample Commands:
 
 1. Get top 5 most played songs in March 2025:
-node scripts/ingest.js top-songs "2025-03-01" "2025-03-31" 5
+npm run ingest top-songs "2025-03-01" "2025-03-31" 5
 
 2. Get user's top songs and artists for last 3 months:
-node scripts/ingest.js timeline "724e10de-23b3-4b79-a3ba-70c8787fa3fe" 3
+npm run ingest timeline "724e10de-23b3-4b79-a3ba-70c8787fa3fe" 3
 
 3. Calculate artist payout for last 6 months:
-node scripts/ingest.js payout "John Coltrane" 6
+npm run ingest payout "John Coltrane" 6
